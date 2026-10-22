@@ -111,6 +111,7 @@ application-local.properties
 application-dev-local.yml
 application-dev-local.yaml
 application-dev-local.properties
+application*.yml
 
 # ---------- OS / editor temporary files ----------
 *.orig.*
