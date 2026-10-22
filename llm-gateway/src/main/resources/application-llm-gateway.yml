@@ -1,0 +1,13 @@
+argus:
+  llm:
+    ollama:
+      base-url: http://localhost:11434
+      timeout: 120s
+      models:
+        SIMPLE: qwen2.5-coder:1.5b
+        CLASSIFICATION: qwen2.5-coder:1.5b
+        COMPLEX: qwen2.5-coder:7b
+        CODE_GENERATION: qwen2.5-coder:7b
+    run-budget:
+      max-tokens: 500000
+      max-cost: 10.0

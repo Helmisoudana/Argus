@@ -1,0 +1,12 @@
+com/argus/shared/error/GuardTest.class
+com/argus/shared/model/BoundedValuesTest.class
+com/argus/shared/error/ErrorCodeAndExceptionsTest.class
+com/argus/shared/architecture/KernelSizeTest.class
+com/argus/shared/architecture/SharedKernelArchitectureTest.class
+com/argus/shared/model/QualifiedNameTest.class
+com/argus/shared/model/HttpMethodTest.class
+com/argus/shared/architecture/SharedKernelArchitectureTest$1.class
+com/argus/shared/event/DomainEventTest$SampleEvent.class
+com/argus/shared/id/EndpointIdTest.class
+com/argus/shared/event/DomainEventTest.class
+com/argus/shared/id/IdentifiersTest.class

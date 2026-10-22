@@ -1,0 +1,10 @@
+/home/helmi/Desktop/Argus/shared-kernel/src/test/java/com/qagent/shared/architecture/KernelSizeTest.java
+/home/helmi/Desktop/Argus/shared-kernel/src/test/java/com/qagent/shared/architecture/SharedKernelArchitectureTest.java
+/home/helmi/Desktop/Argus/shared-kernel/src/test/java/com/qagent/shared/error/ErrorCodeAndExceptionsTest.java
+/home/helmi/Desktop/Argus/shared-kernel/src/test/java/com/qagent/shared/error/GuardTest.java
+/home/helmi/Desktop/Argus/shared-kernel/src/test/java/com/qagent/shared/event/DomainEventTest.java
+/home/helmi/Desktop/Argus/shared-kernel/src/test/java/com/qagent/shared/id/EndpointIdTest.java
+/home/helmi/Desktop/Argus/shared-kernel/src/test/java/com/qagent/shared/id/IdentifiersTest.java
+/home/helmi/Desktop/Argus/shared-kernel/src/test/java/com/qagent/shared/model/BoundedValuesTest.java
+/home/helmi/Desktop/Argus/shared-kernel/src/test/java/com/qagent/shared/model/HttpMethodTest.java
+/home/helmi/Desktop/Argus/shared-kernel/src/test/java/com/qagent/shared/model/QualifiedNameTest.java
