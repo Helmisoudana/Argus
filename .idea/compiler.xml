@@ -6,6 +6,7 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="argus-project-analysis" />
         <module name="argus-llm-gateway" />
         <module name="qagent-shared-kernel" />
       </profile>
@@ -14,6 +15,7 @@
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="argus-llm-gateway" options="-parameters -Xlint:all" />
+      <module name="argus-project-analysis" options="-parameters -Xlint:all" />
       <module name="qagent-shared-kernel" options="-parameters -Xlint:all" />
     </option>
   </component>

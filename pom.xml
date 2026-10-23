@@ -14,6 +14,7 @@
     <modules>
         <module>shared-kernel</module>
         <module>llm-gateway</module>
+        <module>project-analysis</module>
     </modules>
 
     <properties>
