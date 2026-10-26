@@ -16,6 +16,7 @@
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="argus-llm-gateway" options="-parameters -Xlint:all" />
       <module name="argus-project-analysis" options="-parameters -Xlint:all" />
+      <module name="qagent-parent" options="-parameters -Xlint:all" />
       <module name="qagent-shared-kernel" options="-parameters -Xlint:all" />
     </option>
   </component>
